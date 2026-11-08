@@ -1,0 +1,13 @@
+skillhub_data.json
+skillhub_data.json.tmp
+skillhub_data.json.broken
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
